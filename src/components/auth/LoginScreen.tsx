@@ -81,9 +81,6 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin }) => {
               Welcome to our Course Management System!
             </p>
             <p style={{ fontSize: '14px', color: '#6b7280', marginBottom: '8px' }}>
-              Welcome to our Course Management System!
-            </p>
-            <p style={{ fontSize: '14px', color: '#6b7280', marginBottom: '8px' }}>
               Please sign in to continue.
             </p>
           </div>
