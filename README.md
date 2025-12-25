@@ -22,4 +22,4 @@ This is a Learning Management System (LMS) frontend built with Next.js and Ant D
     
 -> Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
--> Or access through this link: (https://lms-indol-theta.vercel.app/)
+-> Or access through this link: https://lms-ten-hazel.vercel.app/
