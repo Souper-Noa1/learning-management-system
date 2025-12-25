@@ -173,7 +173,7 @@ const CourseList: React.FC = () => {
   return (
     <div>
       <Card className={styles.cardContainer}>
-        <Space vertical style={{ width: '100%' }} size="large">
+        <Space direction="vertical" style={{ width: '100%' }} size="large">
           <div className={styles.headerContainer}>
             <h2 className={styles.pageTitle}>Course Management</h2>
             <Button
